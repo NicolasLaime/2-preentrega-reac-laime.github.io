@@ -1,0 +1,17 @@
+.Counter{
+    width: fit-content;
+    background-color: brown;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.Controls{
+    display: inline-flex;
+}
+
+.button{
+
+    font-size: 30px;
+    margin: 10px;
+}
